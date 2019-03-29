@@ -1,0 +1,13 @@
+/* WS2812b CONFIG */
+#define BODY_LED_PIN  17
+#define TAIL_LED_PIN  16
+
+#define BODY_LED_NUM  9
+#define TAIL_LED_NUM  6
+
+#define DEFAULT_BRIGHTNESS 50
+
+/* PUSHBUTTON CONFIG */
+#define SW_PIN  26
+
+/* WLAN CONFIG */
